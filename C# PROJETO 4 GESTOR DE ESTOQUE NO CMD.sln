@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# PROJETO 4 GESTOR DE ESTOQUE NO CMD", "C# PROJETO 4 GESTOR DE ESTOQUE NO CMD\C# PROJETO 4 GESTOR DE ESTOQUE NO CMD.csproj", "{FF8EBF5E-D51C-4CBF-B308-E2CD1BD7B3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8EBF5E-D51C-4CBF-B308-E2CD1BD7B3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8EBF5E-D51C-4CBF-B308-E2CD1BD7B3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8EBF5E-D51C-4CBF-B308-E2CD1BD7B3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8EBF5E-D51C-4CBF-B308-E2CD1BD7B3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B2F402-9D58-4A73-B043-3E5B4530118E}
+	EndGlobalSection
+EndGlobal
